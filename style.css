@@ -96,10 +96,11 @@ li {
 
 a.sidebar-link {
     padding: .625rem 1.625rem;
-    color: #e9ecef;
+    color: #f5bde6;
     position: relative;
     display: block;
     font-size: 1rem;
+    text-decoration: none;
 }
 
 .sidebar-link[data-bs-toggle="collapse"]::after {
